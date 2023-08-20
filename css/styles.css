@@ -85,19 +85,19 @@ p {
 
 label.first-color {
   margin-left: 500px;
-  background-image: url("/images/color1.jpg");
+  background-image: url("./images/color1.jpg");
 }
 label.color-2 {
-  background-image: url("/images/color2.jpg");
+  background-image: url("./images/color2.jpg");
 }
 label.color-3 {
-  background-image: url("/images/color3.jpg");
+  background-image: url("./images/color3.jpg");
 }
 label.color-4 {
-  background-image: url("/images/color4.jpg");
+  background-image: url("./images/color4.jpg");
 }
 label.color-5 {
-  background-image: url("/images/color5.jpg");
+  background-image: url("./images/color5.jpg");
 }
 label.color-6 {
   background-image: url("/images/color6.jpg");
@@ -116,7 +116,7 @@ label.color-6 {
   background-position: center top;
   background-size: 100%;
   background-repeat: no-repeat;
-  background-image: url("/images/Thar1.png");
+  background-image: url("./images/Thar1.png");
   opacity: 0;
 }
 
@@ -125,14 +125,14 @@ label.color-6 {
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.Thar-2 {
-  background-image: url("/images/Thar2.png");
+  background-image: url("./images/Thar2.png");
 }
 .for-color-2:checked ~ .img-wrap.Thar-2 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.Thar-3 {
-  background-image: url("/images/Thar3.png");
+  background-image: url("./images/Thar3.png");
 }
 .for-color-3:checked ~ .img-wrap.Thar-3 {
   opacity: 1;
@@ -146,14 +146,14 @@ label.color-6 {
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.Thar-5 {
-  background-image: url("/images/Thar5.png");
+  background-image: url("./images/Thar5.png");
 }
 .for-color-5:checked ~ .img-wrap.Thar-5 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .img-wrap.Thar-6 {
-  background-image: url("/images/Thar6.png");
+  background-image: url("./images/Thar6.png");
 }
 .for-color-6:checked ~ .img-wrap.Thar-6 {
   opacity: 1;
